@@ -1,0 +1,75 @@
+11:54:21.242 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Test Started
+11:54:26.599 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Max_life_insurance URL opened successfully
+11:54:30.687 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Test Exceution started for List of Customer Page
+11:54:31.874 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Customer Servicing link clicked successfully
+11:54:31.910 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - List of Customers page opend successfully
+11:54:35.791 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - First user details clicked and displayed successfully
+11:54:35.966 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Clicked on one First customer Row
+11:55:06.019 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Test execution completed for List of Customers page
+11:55:06.091 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - User log out successfully
+11:55:06.337 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Browser closed
+11:55:08.741 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Test Started
+11:55:13.361 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Max_life_insurance URL opened successfully
+11:55:17.221 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Test Exceution started for Single Cheque pay functionality
+11:55:18.755 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Customer Servicing link clicked successfully
+11:55:28.799 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - List of Customers page opened successfully
+11:55:40.927 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Value searching successfully
+11:55:41.035 2018-04-12 [main] INFO  com.max.mpower.DashboardMpowerTest - Clicked on the Policy Data:
+11:56:12.652 2018-04-12 [main] INFO  com.max.mpower.DashboardMpowerTest - Clicked on the Pay Button
+11:56:22.800 2018-04-12 [main] INFO  com.max.mpower.DashboardMpowerTest - Cheque mode of Pay is Selected:
+11:56:34.058 2018-04-12 [main] INFO  com.max.mpower.DashboardMpowerTest - Amount pay Entered from the Excel sheet
+11:56:35.329 2018-04-12 [main] INFO  com.max.mpower.DashboardMpowerTest - Cheque/DD_Num Entered from the Excel sheet
+11:56:35.380 2018-04-12 [main] INFO  com.max.mpower.DashboardMpowerTest - Cleared Todays Date Field & Picking Backdate from Excel
+11:56:49.671 2018-04-12 [main] INFO  com.max.mpower.DashboardMpowerTest - Date_Pay_cheque Entered from the Excel sheet
+11:56:50.850 2018-04-12 [main] INFO  com.max.mpower.DashboardMpowerTest - Accnum_ChequeDDPay Entered from the Excel sheet
+11:56:52.101 2018-04-12 [main] INFO  com.max.mpower.DashboardMpowerTest - Bankname_ChequeDDPay Entered from the Excel sheet
+11:56:53.282 2018-04-12 [main] INFO  com.max.mpower.DashboardMpowerTest - Branch_ChequeDDPay Entered from the Excel sheet
+11:57:03.388 2018-04-12 [main] INFO  com.max.mpower.DashboardMpowerTest - Inital Cheque with Data is Submitted:
+11:57:13.389 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Test Exceution Finished for Submitting Single Cheque
+11:57:13.389 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Test Exceution started for Customer list Multiple Cheque pay functionality
+11:57:13.449 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Customer Servicing link clicked successfully
+11:57:23.521 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - List of Customers page opened successfully
+11:58:43.861 2018-04-12 [main] ERROR c.m.mpower.CustomerServiceMpowerTest - Test case failed: chrome not reachable
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.02 seconds
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'MONO-HYD-LAP-13', ip: '192.168.1.67', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=C:\Users\PRATHI~1\AppData\Local\Temp\scoped_dir19820_13882}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.181, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: fb8ec19978376f84842b62cd3aa11c36
+*** Element info: {Using=xpath, value=//input[@placeholder='Search']}
+12:02:37.373 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Test Started
+12:02:43.330 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Max_life_insurance URL opened successfully
+12:02:47.310 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Test Exceution started for List of Customer Page
+12:02:48.700 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Customer Servicing link clicked successfully
+12:02:48.741 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - List of Customers page opend successfully
+12:02:52.808 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - First user details clicked and displayed successfully
+12:02:53.083 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Clicked on one First customer Row
+12:03:23.104 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Test execution completed for List of Customers page
+12:03:23.172 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - User log out successfully
+12:03:23.426 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Browser closed
+12:03:25.360 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Test Started
+12:03:36.693 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Max_life_insurance URL opened successfully
+12:03:40.620 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Test Exceution started for Single Cheque pay functionality
+12:03:42.630 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Customer Servicing link clicked successfully
+12:03:52.662 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - List of Customers page opened successfully
+12:04:04.977 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Value searching successfully
+12:04:05.087 2018-04-12 [main] INFO  com.max.mpower.DashboardMpowerTest - Clicked on the Policy Data:
+12:04:25.220 2018-04-12 [main] INFO  com.max.mpower.DashboardMpowerTest - Clicked on the Pay Button
+12:04:35.350 2018-04-12 [main] INFO  com.max.mpower.DashboardMpowerTest - Cheque mode of Pay is Selected:
+12:04:46.607 2018-04-12 [main] INFO  com.max.mpower.DashboardMpowerTest - Amount pay Entered from the Excel sheet
+12:04:47.876 2018-04-12 [main] INFO  com.max.mpower.DashboardMpowerTest - Cheque/DD_Num Entered from the Excel sheet
+12:04:47.919 2018-04-12 [main] INFO  com.max.mpower.DashboardMpowerTest - Cleared Todays Date Field & Picking Backdate from Excel
+12:05:05.405 2018-04-12 [main] ERROR c.m.mpower.CustomerServiceMpowerTest - Test case failed: unknown error: cannot focus element
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'MONO-HYD-LAP-13', ip: '192.168.1.67', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=C:\Users\PRATHI~1\AppData\Local\Temp\scoped_dir2616_11947}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.181, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 35cb8eaf71baaa5c70a862f8ffc9a09e
+12:05:05.499 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - User log out successfully
+12:05:05.647 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Browser closed
+12:05:07.562 2018-04-12 [main] INFO  c.m.mpower.CustomerServiceMpowerTest - Test Started

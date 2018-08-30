@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="MainTestSuite">
+    <suite-files>
+       
+         <suite-file path="CustomerServicePage.xml" /> 
+        <!-- <suite-file path="SelfServicePage.xml" /> 
+        <suite-file path="PaymentPage.xml" />  
+     <suite-file path="HeaderSearchPage.xml" />
+        <suite-file path="NotificationPage.xml" />
+         <suite-file path="DashboardPage.xml" /> -->  
+<!-- <suite-file path="CustomerServicePage.xml" />  -->    
+    </suite-files>
+</suite>
+
+
